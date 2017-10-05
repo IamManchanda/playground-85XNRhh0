@@ -490,6 +490,7 @@ console.log(zuck.greet());
 ```
 
 **To be continued…**
+Thanks for reading this through, Part 2 is [here](https://tech.io/playgrounds/6593/modern-es6-javascript-pt--2).
 
 ## Thanks a lot…
 
